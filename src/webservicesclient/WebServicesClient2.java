@@ -6,8 +6,6 @@
 package webservicesclient;
 
 import hw.HelloWorld;
-import hw.HelloWorldImplService;
-import java.net.MalformedURLException;
 import java.net.URL;
 import javax.xml.namespace.QName;
 import javax.xml.ws.Service;
